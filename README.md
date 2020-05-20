@@ -4,7 +4,7 @@
 
 ## How?
 
-With the help of the wikipedia api, telegram, a pretrained BERT model and spacy for detecting the user intent. User asks for "Who is Lebron James?" and the script detects this Person like so:
+With the help of the wikipedia api, telegram, a pretrained BERT model, transformers and spacy for detecting the user intent. User asks for "Who is Lebron James?" and the script detects this Person like so:
 
 ```bash
 Lebron James [PRS]

@@ -1,10 +1,10 @@
 # Foobar
 
-[A Telegram bot ](https://t.me/short_answer_bot) which answers questions with a simple definition.
+[A Telegram bot ](https://t.me/short_answer_bot) which gives a simple answer for simple question.
 
 ## How?
 
-Takes user input and generates an "intent". User asks for "Who is Lebron James?" and the script detects this Person. 
+With the help of the wikipedia api, telegram, a pretrained BERT model and spacy for detecting the user intent. User asks for "Who is Lebron James?" and the script detects this Person like so:
 
 ```bash
 Lebron James [PRS]

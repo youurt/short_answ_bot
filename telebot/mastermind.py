@@ -93,5 +93,5 @@ def answer_question(question):
         else:
             answer += ' ' + tokens[i]
 
-    return(answer)
+    return answer
 

@@ -2,7 +2,7 @@
 
 [A Telegram bot](https://t.me/short_answer_bot) which gives a simple answer for simple question.
 
-![Chat](short_answ_bot/pic.png)
+![Chat](https://github.com/youurt/short_answ_bot/blob/master/pic.png)
 
 ## How?
 

@@ -97,11 +97,5 @@ def answer_question(question):
         else:
             answer += ' ' + tokens[i]
 
-    print(answer)
+    return(answer)
 
-
-#text = wikipedia_search("Bob Marley")
-# print(text)
-#msg = "Who is Madonna?"
-
-# answer_question(msg)

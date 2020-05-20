@@ -1,6 +1,6 @@
 # shortanswerbot
 
-[A Telegram bot ](https://t.me/short_answer_bot) which gives a simple answer for simple question.
+[A Telegram bot](https://t.me/short_answer_bot) which gives a simple answer for simple question.
 
 ## How?
 

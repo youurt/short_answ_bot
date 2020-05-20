@@ -12,7 +12,7 @@ With the help of the wikipedia api, telegram, a pretrained BERT model, transform
 
 ## BERT
 
-Then the script uses the summary of that wikipedia article and takes the first 512 Tokens of the text. With a pretrained&finetuned BERT model it generates the answer from the wikipedia passage.
+Then the script uses the summary of that wikipedia article and takes the first 512 Tokens of the text. With a pretrained & finetuned BERT model it generates the answer from the wikipedia passage.
 
 ```python
 model = AutoModelForQuestionAnswering.from_pretrained(

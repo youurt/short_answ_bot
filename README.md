@@ -1,6 +1,6 @@
 # Foobar
 
-A Telegram bot [link](https://t.me/short_answer_bot) which answers questions with a simple definition.
+[A Telegram bot ](https://t.me/short_answer_bot) which answers questions with a simple definition.
 
 ## How?
 

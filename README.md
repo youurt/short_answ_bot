@@ -2,6 +2,8 @@
 
 [A Telegram bot](https://t.me/short_answer_bot) which gives a simple answer for simple question.
 
+![Chat](/images/logo.png)
+
 ## How?
 
 [Google Colab Version](https://colab.research.google.com/drive/19nBpPDxtibZ6DTKGPVBGH5DXIFhpHEnY#scrollTo=hQb3M4Fi8O9P)

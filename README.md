@@ -2,7 +2,7 @@
 
 [A Telegram bot](https://t.me/short_answer_bot) which gives a simple answer for simple question.
 
-![Chat](/images/logo.png)
+![Chat](Bildschirmfoto 2020-05-20 um 14.30.45.png)
 
 ## How?
 

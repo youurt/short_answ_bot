@@ -20,7 +20,7 @@ tokenizers==0.7.0
 tornado==6.0.4
 tqdm==4.46.0
 transformers==2.9.1
-urllib3==1.25.9
+urllib3==1.26.5
 Werkzeug==1.0.1
 wikipedia==1.4.0
 -f https://download.pytorch.org/whl/torch_stable.html                                                                                                                                                             
